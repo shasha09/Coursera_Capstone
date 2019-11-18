@@ -1,2 +1,2 @@
 # Coursera_Capstone
-## This repository is for practice of coursera capstone  
+This repository is for practice of coursera capstone  
